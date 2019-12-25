@@ -26,6 +26,6 @@ exit /B
 if exist "%temp%\getadmin.vbs" ( del "%temp%\getadmin.vbs" )
 ::from this point you can execute your command as admin
 netsh wlan stop hostednetwork
-netsh wlan set hostednetwork mode=allow ssid=W3fe2f92 key=hadihensem
+netsh wlan set hostednetwork mode=allow ssid=YOURHOTSPOTNAME key=YOURHOTSPOTPASSWORD
 netsh wlan start hostednetwork
 pause
