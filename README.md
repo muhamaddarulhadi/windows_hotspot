@@ -11,3 +11,4 @@
 3. https://stackoverflow.com/questions/33787279/execute-batch-file-to-start-wifi-hotspot-as-admin
 4. https://www.windowscentral.com/how-create-and-run-batch-file-windows-10
 5. https://www.winability.com/make-your-windows-laptop-work-as-a-wi-fi-access-point/
+6. https://answers.microsoft.com/en-us/windows/forum/windows_7-networking/changing-home-networking-connection-on-internet/8edc07a5-a921-4c71-bc17-51ab840d0ce9
